@@ -57,7 +57,7 @@ public class Util {
 	    out.write(sets);
 	    out.println();
 	    fw.close();
-	    out.close();
+	    out.close(); // test fixed
 	   }
 
 	
